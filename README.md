@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A passionate software engeneer from Brazil.</h3>
+<h3 align="center">A software architect from Brazil.</h3>
 
 - 👨‍💻 All of my projects are available at [vitorpereiraresende.com](vitorpereiraresende.com)
 
